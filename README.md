@@ -1,1 +1,6 @@
-# pytest_example
+# python_tests
+
+
+```
+python -m pytest
+```
